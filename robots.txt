@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://bali-keren.github.io/news/sitemap.xml
